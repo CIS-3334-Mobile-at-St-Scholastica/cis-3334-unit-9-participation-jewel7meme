@@ -10,4 +10,7 @@
     <string name="mary_jackson">Mary Jackson</string>
     <string name="my_study_group">My Study Group</string>
     <string name="title_activity_settings">"Settings "</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="add_study_mate">Add Study Mate</string>
+    <string name="delete_study_mate">Delete Study Mate</string>
 </resources>
